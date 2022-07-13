@@ -12,7 +12,7 @@ tags:
 ---
 ![](/static/img/propose-day.png)
 
-# This is a Heading h1
+This post was edited by kiwi
 
 ## This is a Heading h2
 
